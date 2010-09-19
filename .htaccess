@@ -1,0 +1,2 @@
+AddHandler x-httpd-php5 .php
+

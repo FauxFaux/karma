@@ -1,0 +1,13 @@
+table { border-collapse: collapse; width: 100% }
+td,th { border: 1px solid black; padding: .5em }
+th { border: 2px solid black }
+.even td { background-color: #ccc }
+.sorted { font-style: italic }
+td:first-child + td { padding: 0; margin:0; width: 150px }
+td > p { font-style: italic }
+td:first-child { text-align: center; font-weight: bold }
+a { color: black; text-decoration: underline }
+a:visited { color: black }
+iframe { width: 100%; border: 1px dashed red; background-color: transparent }
+h2 { font-style: italic; font-size: medium; font-weight: normal }
+li { display: block }
