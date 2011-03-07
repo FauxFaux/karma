@@ -79,7 +79,7 @@
 	<h1>Compsoc (Unofficial!) Karma Awards</h1>
 	<p>Karma rankings generated live from BadgerBOT&#39;s database on the <a href="http://www.warwickcompsoc.co.uk/">UWCS</a> IRC server.</p>
 
-	<p><a href="index.phps">The source</a> is avaliable - please suggest improvements.</p>
+	<p><a href="http://git.goeswhere.com/?p=karma.git;a=summary">The source</a> is avaliable - please suggest improvements.</p>
 	<table>
 		<tr><th>Rank</th><th>Picture</th><th>Object</th><th><?=(
 			$sort!='up' ? '<a href="?sort=up">Up</a>' : '<span class="sorted">Up</span>'
